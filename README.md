@@ -1,6 +1,8 @@
 # quiz_cheater
 Script uses windows notification to display the answers to quiz. Questions and answers should be prepared ahead.
 
+Used libs: pytesseract, PIL, win10toast, fuzzywuzzy
+
 Recommend to use Greenshot:
   1. PrtSc -> Highlight question region
   2. Shift + PrtSc -> Copy in Clipboard previous region
